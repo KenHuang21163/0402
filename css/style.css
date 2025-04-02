@@ -42,6 +42,31 @@ body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, blockquote
     direction: ltr;
 }
 
+h3 {
+    color: #333333; /* 調整文字顏色 */
+}
+
+body {
+    background-color: #ffffff; /* 調整背景顏色 */
+    color: #333333; /* 調整文字顏色 */
+}
+
+p.section-subtitle {
+    color: #666666; /* 調整文字顏色 */
+}
+
+section#pricing.secondary-color.text-center.scrollto.clearfix {
+    background-color: #f8f8f8; /* 調整背景顏色 */
+}
+
+p#copyright.col-2 {
+    color: #999999; /* 調整文字顏色 */
+}
+
+a {
+    color: #0056b3; /* 調整文字顏色 */
+}
+
 body {
     margin: 0;
     padding: 0;
@@ -1576,6 +1601,30 @@ blockquote {
     background-position: center;
     margin: -55px 0 0 -55px; /* is width and height divided by two */
     text-align: center;
+}
+
+
+body {
+    background-color: #ffffff; /* 背景色 */
+    color: #000000; /* 前景色 */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #333333; /* 調整標題顏色 */
+}
+
+button {
+    background-color: #007BFF; /* 按鈕背景色 */
+    color: #ffffff; /* 按鈕文字顏色 */
+}
+
+p {
+    color: #4a4a4a; /* 調整段落文字顏色 */
+}
+
+
+a {
+    color: #0056b3; /* 調整鏈接顏色 */
 }
 
 /*!
